@@ -1,4 +1,4 @@
-here## 👋 Hey there, I'm Alnathan
+here## 👋 Hey there, I'm Keerthika
 
 I'm a beginner developer just starting my journey in Python and mobile app development.  
 I enjoy learning by building small real-life projects and exploring new tools!
